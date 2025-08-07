@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "realstate",
-    "slug": "realstate",
+    "name": "realstateagent",
+    "slug": "realstateagent",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,8 +13,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.realstate"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
